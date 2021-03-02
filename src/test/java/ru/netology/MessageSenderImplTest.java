@@ -1,6 +1,5 @@
 package ru.netology;
 
-import org.hamcrest.core.StringStartsWith;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
